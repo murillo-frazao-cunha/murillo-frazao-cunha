@@ -15,7 +15,7 @@ Criando coisas do zero só porque deu vontade 🚀
 
 * Preferência por backend
 * Viciado em criar projetos
-* Desenvolvimento Full-Stack - [https://github.com/mfrazlab/vatts.js](Vatts.js)
+* Desenvolvimento Full-Stack - [Vatts.js](https://github.com/mfrazlab/vatts.js)
 * Sempre testando ideias novas 
 
 ---
