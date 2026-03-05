@@ -2,8 +2,7 @@
 
 # ⚡ Murillo Frazão
 
-**Backend enjoyer** • Sistemas • Protocolos • Minecraft dev
-Criando coisas do zero só porque deu vontade 🚀
+**Backend enjoyer** • Sistemas • Protocolos • Java dev 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" />
 
@@ -45,6 +44,7 @@ Criando coisas do zero só porque deu vontade 🚀
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="42">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="42" />
 </div>
@@ -65,17 +65,6 @@ Criando coisas do zero só porque deu vontade 🚀
 [![Gmail](https://img.shields.io/badge/Gmail-murillofrazaocunha-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:murillofrazaocunha@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@frcmuri-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/frcmuri)
 [![GitHub](https://img.shields.io/badge/GitHub-murillo--frazao--cunha-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/murillo-frazao-cunha)
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=murillo-frazao-cunha&show_icons=true&theme=tokyonight&hide=issues,prs" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillo-frazao-cunha&layout=compact&theme=tokyonight" />
 
 </div>
 
