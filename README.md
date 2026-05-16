@@ -2,21 +2,24 @@
 
 # Murillo Frazão
 
-Backend Engineer • Infrastructure • Distributed Systems • Open Source
+Software Engineer • Infrastructure • Distributed Systems • Open Source
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=3" />
+
+### 🇺🇸 English | [🇧🇷 Português](./README.pt-BR.md)
 
 </div>
 
 ## About
 
-Backend and infrastructure-focused developer passionate about high-performance systems, distributed architectures and developer tooling.
+Software engineer focused on infrastructure, distributed systems and modern development tooling.
 
 Currently working on:
 - Full-stack framework development with native HTTP/3 support
 - Docker infrastructure and container orchestration
 - Linux-based systems and automation
-- Real-time communication and scalable backend services
+- Real-time communication systems
+- High-performance backend architectures
 
 Founder of:
 - [mfrazlab](https://github.com/mfrazlab)
