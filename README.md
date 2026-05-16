@@ -1,77 +1,88 @@
 <div align="center">
 
-# ⚡ Murillo Frazão
+# Murillo Frazão
 
-**Backend enjoyer** • Sistemas • Protocolos • Java dev 🚀
+Backend Engineer • Infrastructure • Distributed Systems • Open Source
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=3" />
 
 </div>
 
+## About
+
+Backend and infrastructure-focused developer passionate about high-performance systems, distributed architectures and developer tooling.
+
+Currently working on:
+- Full-stack framework development with native HTTP/3 support
+- Docker infrastructure and container orchestration
+- Linux-based systems and automation
+- Real-time communication and scalable backend services
+
+Founder of:
+- [mfrazlab](https://github.com/mfrazlab)
+- [Vatts.js](https://github.com/mfrazlab/vatts.js)
+
 ---
 
-## Sobre mim
+## Technologies
 
-* Preferência por backend
-* Viciado em criar projetos
-* Desenvolvimento Full-Stack - [Vatts.js](https://github.com/mfrazlab/vatts.js)
-* Sempre testando ideias novas 
-
----
-
-## ⚙️ Stack
-
-### 💻 Linguagens
+### Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" />
 </div>
 
-### 🧩 Frameworks & Libs
+### Frameworks & Technologies
 
 <div align="left">
-  <a href="https://github.com/mfrazlab/vatts.js"><img src="https://raw.githubusercontent.com/mfrazlab/vatts.js/docs/public/logo.png" width="42" /></a>
+  <a href="https://github.com/mfrazlab/vatts.js">
+    <img src="https://raw.githubusercontent.com/mfrazlab/vatts-docs/master/public/logo.png" width="42" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" />
 </div>
 
-### 🗄️ Bancos
+### Databases & Infrastructure
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="42">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="42" />
-</div>
-
-### 🔧 Ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" />
 </div>
 
 ---
 
-## 🌐 Onde me achar
+## Featured Projects
 
-<div align="center">
+- ⚡ [Vatts.js](https://github.com/mfrazlab/vatts.js)  
+  Modern full-stack framework with native HTTP/3 support.
 
-[![Discord](https://img.shields.io/badge/Discord-mulinfrc-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1264710048786026588)
-[![Gmail](https://img.shields.io/badge/Gmail-murillofrazaocunha-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:murillofrazaocunha@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@frcmuri-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/frcmuri)
-[![GitHub](https://img.shields.io/badge/GitHub-murillo--frazao--cunha-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/murillo-frazao-cunha)
+- 🐳 [Lunar Panel](https://github.com/mfrazlab/panel)  
+  Infrastructure and container management platform.
 
-</div>
+- 🚀 [Lunar Feather](https://github.com/mfrazlab/feather)  
+  High-performance daemon written in Go for Docker communication and orchestration.
 
 ---
 
+## Contact
+
 <div align="center">
 
-💡 *"Se dá pra quebrar, dá pra otimizar."*
+[![Website](https://img.shields.io/badge/Website-mfraz.ovh-111?style=for-the-badge)](https://mfraz.ovh)
+[![GitHub](https://img.shields.io/badge/GitHub-murillo--frazao--cunha-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murillo-frazao-cunha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murillo_Frazão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-frazão-cunha/)
+[![Discord](https://img.shields.io/badge/Discord-mulinfrc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1264710048786026588)
 
 </div>
