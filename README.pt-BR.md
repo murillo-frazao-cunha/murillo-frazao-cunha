@@ -2,7 +2,7 @@
 
 # Murillo Frazão
 
-Engenharia de Software • Infraestrutura • Sistemas Distribuídos • Open Source
+Desenvolvedor de software • Infraestrutura • Sistemas Distribuídos • Open Source
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=3" />
 
@@ -12,7 +12,7 @@ Engenharia de Software • Infraestrutura • Sistemas Distribuídos • Open So
 
 ## Sobre
 
-Engenheiro de software focado em infraestrutura, sistemas distribuídos e ferramentas modernas de desenvolvimento.
+Desenvolvedor focado em infraestrutura, sistemas distribuídos e ferramentas modernas de desenvolvimento.
 
 Atualmente trabalhando em:
 - Desenvolvimento de frameworks full-stack com suporte nativo a HTTP/3
