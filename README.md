@@ -2,7 +2,7 @@
 
 # Murillo Frazão
 
-Software Engineer • Infrastructure • Distributed Systems • Open Source
+Software Developer • Infrastructure • Distributed Systems • Open Source
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=3" />
 
@@ -12,7 +12,7 @@ Software Engineer • Infrastructure • Distributed Systems • Open Source
 
 ## About
 
-Software engineer focused on infrastructure, distributed systems and modern development tooling.
+Software developer focused on infrastructure, distributed systems and modern development tooling.
 
 Currently working on:
 - Full-stack framework development with native HTTP/3 support
