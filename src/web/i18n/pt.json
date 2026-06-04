@@ -1,0 +1,323 @@
+{
+
+  "personalInfo": {
+    "name": "Murillo Frazão Cunha",
+    "title": "Full-Stack Developer",
+    "profileImageUrl": "https://www.gravatar.com/avatar/b2b9697ab2727ac792bfa53356d81880?s=400",
+    "bio": [
+      "Full Stack Developer focused on scalable systems, high performance, and modern software architecture. Experience in building complete applications, from robust backend systems to interfaces and administrative dashboards.",
+      "Experience in developing REST APIs and distributed systems, applying software best practices, system architecture, and performance optimization.",
+      "Experience with Linux infrastructure, process automation, and container management using Docker and deployment/scalability tools.",
+      "Works with relational and NoSQL databases such as PostgreSQL, Redis, and MongoDB, ensuring performance, consistency, and high availability.",
+      "Interest in software architecture, backend engineering, and building custom tools focused on automation, productivity, and application monitoring.",
+      "Undergraduate student in Computer Science at Fundação Santo André (FSA) and a graduate in Industrial Electronics Technician from SENAI, integrating hardware and software knowledge to build efficient solutions."
+    ],
+    "socials": [
+      { "name": "GitHub", "url": "https://github.com/mfrazlab", "icon": "github" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/murillo-fraz%C3%A3o-cunha/", "icon": "linkedin" },
+      { "name": "Instagram", "url": "https://instagram.com/itsmuh_", "icon": "instagram" },
+      { "name": "Email", "url": "mailto:murillofrazaocunha@gmail.com", "icon": "mail" }
+    ]
+  },
+  "nav": {
+    "ariaLabel": "Navegação principal",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "resume": "Currículo",
+    "timeline": "Linha do Tempo",
+    "skills": "Habilidades"
+  },
+  "about": {
+    "quickLinks": {
+      "story": "História",
+      "experience": "Experiência",
+      "education": "Educação"
+    },
+    "storyTitle": "Minha Trajetória",
+    "experienceTitle": "Experiência Profissional",
+    "educationTitle": "Educação & Formação"
+  },
+
+  "resume": {
+    "phone": "+55 (11) 99225-4957",
+    "linkedin": "linkedin.com/in/murillo-frazão-cunha/",
+    "website": "mfraz.ovh",
+    "summary": "Desenvolvedor Full-Stack focado em ambientes distribuídos, sistemas escaláveis e infraestrutura Linux. Sólida experiência prática com Java, Node.js e Go, combinando a criação de ferramentas robustas de backend e automação com o desenvolvimento de interfaces modernas.",
+    "languages": [
+      { "name": "Português", "level": "Nativo" },
+      { "name": "Inglês", "level": "Intermediário (B2)" }
+    ],
+    "labels": {
+      "contact": "Contato",
+      "email": "Email",
+      "phone": "Telefone",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "website": "Website",
+      "summaryTitle": "Resumo Profissional",
+      "experienceTitle": "Experiência Profissional",
+      "educationTitle": "Formação Acadêmica",
+      "skillsTitle": "Competências Técnicas",
+      "languagesTitle": "Idiomas",
+      "certificationsTitle": "Certificações"
+    },
+    "ui": {
+      "loading": "Gerando currículo...",
+      "previewTitle": "Resume Preview",
+      "downloadBtn": "Baixar PDF"
+    }
+  },
+  "timeline": {
+    "title": "Linha do Tempo",
+    "description": "Acompanhamento cronológico da minha evolução técnica. Do desenvolvimento de plugins aos 12 anos até a arquitetura de sistemas distribuídos e frameworks modernos.",
+    "activeNow": "Ativo Agora",
+    "activeSubtitle": "Ocupações e estudos em andamento",
+    "historyTitle": "Histórico & Conquistas",
+    "badgeWork": "EXPERIÊNCIA",
+    "badgeEducation": "FORMAÇÃO",
+    "presentKeyword": "Presente"
+  },
+  "skills": {
+    "title": "Skills & Tecnologias",
+    "description": "Tecnologias, ferramentas e áreas com as quais possuo experiência prática no desenvolvimento de aplicações, infraestrutura e sistemas backend."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  },
+  "experienceData": [
+    {
+      "role": "Core Maintainer",
+      "company": "Vatts.js",
+      "period": "Out 2025 — Presente",
+      "description": "Vatts.js é um framework full-stack de alta performance, focado em otimização de runtime e entrega de aplicações escaláveis, com suporte a HTTP/3 e integração com serviços em Go para otimização de assets e infraestrutura."
+    },
+    {
+      "role": "Lead Infrastructure Engineer",
+      "company": "Lunar Panel",
+      "period": "Jan 2026 — Presente",
+      "description": "Lunar Panel é uma plataforma de gerenciamento de containers Docker para automação de ambientes Linux e hospedagem de jogos, com daemon de execução e painel administrativo para provisionamento, monitoramento e gestão de recursos."
+    },
+    {
+      "role": "Full-Stack Developer",
+      "company": "Hight",
+      "period": "Mar 2024 — Fev 2026",
+      "description": "Desenvolvimento de backend de alta performance em Java e Kotlin para sistemas de alta concorrência, com foco em escalabilidade, otimização e estabilidade. Experiência com MySQL, Redis e infraestrutura Linux, aplicando arquitetura voltada para ambientes de alta demanda."
+    },
+    {
+      "role": "Desenvolvedor de Sistemas Embarcados (TCC)",
+      "company": "SENAI",
+      "period": "2025",
+      "description": "Desenvolvimento de sistema de monitoramento inteligente de passageiros para transporte público, utilizando Arduino Mega, sensores ultrassônicos e ESP8266 para coleta e envio de dados via Wi-Fi, com interface web em React para monitoramento e visualização em tempo real."
+    }
+  ],
+  "educationData": [
+    {
+      "degree": "Ciência da Computação",
+      "institution": "Fundação Santo André (FSA)",
+      "period": "Fev 2026 — Presente",
+      "description": "Foco em fundamentos da computação, architecture de sistemas, backend, sistemas distribuídos e desenvolvimento de frameworks."
+    },
+    {
+      "degree": "Técnico em Eletroeletrônica",
+      "institution": "SENAI",
+      "period": "Jan 2024 — Dez 2025",
+      "description": "Estudo de eletrônica, automação, lógica digital, redes e integração prática entre hardware e software."
+    }
+  ],
+  "certificationsData": [
+    {
+      "degree": "Fluência - Fundamentos da Inteligência Artificial — 8h",
+      "institution": "SENAI SP",
+      "period": "Mar 2025 — Nov 2025",
+      "description": "Conceitos de IA Tradicional e Generativa, impactos em pesquisas, produtividade e diretrizes éticas."
+    },
+    {
+      "degree": "Web 3.0 — 20h",
+      "institution": "SENAI SP",
+      "period": "Mar 2025 — Mai 2025",
+      "description": "Análise do histórico da Web e exploração das tecnologias emergentes aplicadas à Web 3.0."
+    },
+    {
+      "degree": "Desvendando a Indústria 4.0 — 20h",
+      "institution": "SENAI SP",
+      "period": "Mar 2025 — Mai 2025",
+      "description": "Tecnologias habilitadoras: Big Data, IoT, Computação em Nuvem, Inteligência Artificial e Segurança Digital."
+    },
+    {
+      "degree": "Desvendando o ESG — 20h",
+      "institution": "SENAI SP",
+      "period": "Mar 2025 — Nov 2025",
+      "description": "Princípios de governança ambiental, social e corporativa voltados à sustentabilidade empresarial."
+    },
+    {
+      "degree": "Empreender SENAI — 20h",
+      "institution": "SENAI SP",
+      "period": "Mar 2025 — Mai 2025",
+      "description": "Estruturação de negócios próprios, avaliando viabilidade técnica, mercado e aspectos legais."
+    },
+    {
+      "degree": "Desvendando o 5G — 15h",
+      "institution": "SENAI SP",
+      "period": "Mar 2024 — Nov 2024",
+      "description": "Evolução de redes móveis, infraestrutura básica e aplicações avançadas da tecnologia 5G."
+    },
+    {
+      "degree": "Economia Circular — 20h",
+      "institution": "SENAI SP",
+      "period": "Mar 2024 — Apr 2024",
+      "description": "Modelos de produção circular, consumo inteligente e transição integrando a Indústria 4.0."
+    },
+    {
+      "degree": "Competência Transversal - Segurança no Trabalho — 14h",
+      "institution": "SENAI SP",
+      "period": "Mar 2024 — Nov 2024",
+      "description": "Prevenção de riscos ocupacionais, diretrizes de EPI/EPC, normas da CIPA e mapas de risco."
+    },
+    {
+      "degree": "Privacidade e Proteção de Dados (LGPD) — 4h",
+      "institution": "SENAI SP",
+      "period": "Mar 2024 — Abr 2024",
+      "description": "Privacidade digital sob a LGPD, direitos dos titulares, governança e conformidade legal."
+    }
+  ],
+  "skillsData": [
+    {
+      "title": "Linguagens",
+      "colorClass": "text-violet-400",
+      "badgeClass": "bg-violet-500/10 hover:bg-violet-500/20",
+      "skills": [
+        { "name": "TypeScript" },
+        { "name": "JavaScript" },
+        { "name": "Go" },
+        { "name": "Java" },
+        { "name": "PHP" },
+        { "name": "SQL" },
+        { "name": "Bash" }
+      ]
+    },
+    {
+      "title": "Frontend",
+      "colorClass": "text-cyan-400",
+      "badgeClass": "bg-cyan-500/10 hover:bg-cyan-500/20",
+      "skills": [
+        { "name": "React" },
+        { "name": "Next.js" },
+        { "name": "Vue.js" },
+        { "name": "TailwindCSS" },
+        { "name": "HTML5" },
+        { "name": "CSS3" }
+      ]
+    },
+    {
+      "title": "Backend",
+      "colorClass": "text-indigo-400",
+      "badgeClass": "bg-indigo-500/10 hover:bg-indigo-500/20",
+      "skills": [
+        { "name": "Node.js" },
+        { "name": "Express.js" },
+        { "name": "AdonisJS" },
+        { "name": "REST APIs" },
+        { "name": "WebSockets" },
+        { "name": "Authentication" },
+        { "name": "System Architecture" },
+        { "name": "Docker Daemons" }
+      ]
+    },
+    {
+      "title": "Banco de Dados",
+      "colorClass": "text-emerald-400",
+      "badgeClass": "bg-emerald-500/10 hover:bg-emerald-500/20",
+      "skills": [
+        { "name": "PostgreSQL" },
+        { "name": "MySQL" },
+        { "name": "MongoDB" },
+        { "name": "Redis" },
+        { "name": "Database Modeling" },
+        { "name": "Query Optimization" }
+      ]
+    },
+    {
+      "title": "Infraestrutura & DevOps",
+      "colorClass": "text-fuchsia-400",
+      "badgeClass": "bg-fuchsia-500/10 hover:bg-fuchsia-500/20",
+      "skills": [
+        { "name": "Docker" },
+        { "name": "Docker Compose" },
+        { "name": "Linux" },
+        { "name": "NGINX" },
+        { "name": "CI/CD" },
+        { "name": "GitHub Actions" },
+        { "name": "Cloudflare" },
+        { "name": "SSH" }
+      ]
+    },
+    {
+      "title": "Ferramentas",
+      "colorClass": "text-amber-400",
+      "badgeClass": "bg-amber-500/10 hover:bg-amber-500/20",
+      "skills": [
+        { "name": "Git", "description": "Versionamento e colaboração de código" },
+        { "name": "GitHub", "description": "Gerenciamento de projetos e repositórios" },
+        { "name": "JetBrains IDEs", "description": "Desenvolvimento profissional e produtividade" },
+        { "name": "IntelliJ IDEA", "description": "Desenvolvimento backend e Java" },
+        { "name": "WebStorm", "description": "Aplicações modernas em JavaScript e TypeScript" },
+        { "name": "VSCode", "description": "Editor leve para desenvolvimento geral" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Vatts.js - Framework",
+      "type": "PROJETO PESSOAL",
+      "description": "Framework web moderno e full-stack para Node.js, desenvolvido com suporte nativo e de primeira classe para React e Vue. O projeto introduz suporte nativo ao HTTP/3 pronto para uso, utilizando um servidor HTTP escrito em Go com terminação SSL integrada, permitindo que aplicações executem diretamente no protocolo de transporte mais recente da web sem depender de proxies ou camadas externas. Também possui sistema integrado de roteamento, autenticação, APIs e renderização otimizada para aplicações modernas.",
+      "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue"],
+      "images": ["https://raw.githubusercontent.com/mfrazlab/vatts-docs/master/public/logo.png"],
+      "demoUrl": "https://npmjs.com/package/vatts",
+      "sourceCodeUrl": "https://github.com/mfrazlab/vatts.js"
+    },
+    {
+      "title": "SmartBus - Monitoramento Inteligente de Passageiros",
+      "type": "TCC / SISTEMAS EMBARCADOS",
+      "description": "Desenvolvimento de um sistema inteligente de monitoramento de passageiros para transporte público utilizando hardware embarcado e comunicação em tempo real. O projeto consistiu em um protótipo funcional de ônibus com detecção automatizada de entrada e saída de pessoas através de sensores ultrassônicos conectados a um Arduino Mega, com transmissão de dados via ESP8266 utilizando rede Wi-Fi. Também foi desenvolvida uma interface web em React para monitoramento em tempo real da quantidade de passageiros, visualização de métricas e integração entre software e hardware.",
+      "tags": ["Arduino", "ESP8266", "React", "IoT", "Sistemas Embarcados", "Wi-Fi", "Sensores", "Hardware", "Frontend", "Tempo Real"],
+      "images": ["/tcc/dash.png", "/tcc/bus.png", "/tcc/esquema.png"]
+    },
+    {
+      "title": "Lunar Panel - Management",
+      "type": "PROJETO PESSOAL",
+      "description": "Desenvolvimento de um painel moderno de gerenciamento para servidores e contêineres Docker, inspirado em plataformas de infraestrutura de grande escala. O frontend foi desenvolvido em React, enquanto o backend foi escrito em PHP, oferecendo gerenciamento em tempo real de instâncias, usuários, recursos e operações administrativas com foco em desempenho, usabilidade e automação.",
+      "tags": ["React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "images": ["/panel/dash.png", "/panel/admin.png"],
+      "sourceCodeUrl": "https://github.com/mfrazlab/panel"
+    },
+    {
+      "title": "Lunar Plume - Daemon",
+      "type": "INFRAESTRUTURA",
+      "description": "Desenvolvimento do Lunar Plume, daemon responsável pela comunicação direta entre o painel e os servidores Docker. Escrito em Go, o sistema gerencia criação de contêineres, monitoramento de recursos, execução de comandos e operações em tempo real, utilizando concorrência e comunicação eficiente para garantir alta performance, estabilidade e baixa latência.",
+      "tags": ["Go", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
+      "images": ["/panel/plume.png"],
+      "sourceCodeUrl": "https://github.com/mfrazlab/plume"
+    },
+    {
+      "title": "Hight MC - Minecraft",
+      "type": "LIDERANÇA DE PROJETO",
+      "description": "Atuei como um dos líderes no desenvolvimento e gerenciamento da Hight, um servidor multiplayer de Minecraft desenvolvido em larga escala. Fui responsável pela arquitetura e implementação de diversos sistemas avançados em Java e Kotlin, trabalhando diretamente em performance, escalabilidade e estabilidade para suportar milhares de jogadores simultaneamente. Também participei da integração de serviços distribuídos, otimização de infraestrutura e desenvolvimento de soluções conectadas com Redis, PostgreSQL e MySQL.",
+      "tags": ["Java", "Kotlin", "Redis", "PostgreSQL", "MySQL", "Arquitetura", "Liderança"],
+      "images": ["/Hight-Server.png"]
+    },
+    {
+      "title": "Hight - Fórum",
+      "type": "PROJETO WEB",
+      "description": "Desenvolvimento completo do fórum oficial da Hight utilizando Next.js, React e TypeScript. O sistema possuía integração direta com o servidor de Minecraft, autenticação personalizada, sistema multi-idiomas e uma interface moderna voltada para comunidade, interação entre jogadores e experiência de navegação otimizada.",
+      "tags": ["Next.js", "React", "TypeScript", "Website", "Community", "Frontend", "Backend"],
+      "images": ["/Hight-Web.png"]
+    },
+    {
+      "title": "Hight - Loja",
+      "type": "E-COMMERCE",
+      "description": "Desenvolvimento da loja oficial da Hight durante o processo de internacionalização da plataforma. O sistema foi criado com foco em automação, performance e experiência do usuário, contando com integração direta ao servidor, pagamentos via Stripe e criptomoedas, entrega automática de produtos digitais e uma interface moderna totalmente responsiva.",
+      "tags": ["Next.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
+      "images": ["/store.png"]
+    }
+  ]
+}

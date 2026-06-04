@@ -1,0 +1,40 @@
+{
+  "name": "basic-app",
+  "version": "0.5.1",
+  "description": "Basic example application for HightJS framework",
+  "private": true,
+  "author": "itsmuzin",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@10.20.0",
+  "keywords": [
+    "hightjs",
+    "example",
+    "react"
+  ],
+  "scripts": {
+    "start": "vatts start --port 80",
+    "dev": "vatts dev --port 80"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.5.1",
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/node": "^25.9.1",
+    "autoprefixer": "^10.5.0",
+    "framer-motion": "^12.40.0",
+    "i18next": "^26.3.1",
+    "lucide-react": "^0.552.0",
+    "postcss": "^8.5.15",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-i18next": "^17.0.8",
+    "react-transition-group": "^4.4.5",
+    "tailwindcss": "^4.3.0",
+    "ts-node": "^10.9.2",
+    "vatts": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.16",
+    "@types/react-transition-group": "^4.4.12",
+    "typescript": "^6.0.3"
+  }
+}
