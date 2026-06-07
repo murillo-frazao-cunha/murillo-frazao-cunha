@@ -174,7 +174,7 @@ export default function Layout({ children }: LayoutProps) {
                     </div>
 
                     {/* Menu de Navegação */}
-                    <nav className="w-full flex flex-row md:flex-col gap-1 border-b md:border-b-0 md:border-l border-neutral-900 pb-4 md:pb-0 md:pl-4 mt-2" aria-label={t('nav.ariaLabel')}>
+                    <nav className="w-full flex flex-row md:flex-col gap-1 border-b md:border-b-0 md:border-l border-neutral-900 pb-4 md:pb-0 md:pl-4 mt-2 overflow-x-auto flex-nowrap scrollbar-hide" aria-label={t('nav.ariaLabel')}>
                         {[
                             { name: t('nav.about'), path: '/' },
                             { name: t('nav.projects'), path: '/projects' },
@@ -187,7 +187,7 @@ export default function Layout({ children }: LayoutProps) {
                                 <Link
                                     key={tab.path}
                                     href={tab.path}
-                                    className={`px-4 py-2 text-xs font-mono uppercase tracking-widest transition-all relative ${
+                                    className={`shrink-0 px-4 py-2 text-xs font-mono uppercase tracking-widest transition-all relative ${
                                         isActive
                                             ? 'text-[#10B981] font-medium border-b-2 border-[#10B981] md:border-b-0 md:border-l-2 md:border-[#10B981] md:-ml-[18px]'
                                             : 'text-neutral-600 hover:text-neutral-300'
