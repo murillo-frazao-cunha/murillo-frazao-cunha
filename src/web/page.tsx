@@ -5,7 +5,6 @@ import { Metadata } from "vatts/react";
 export default function AboutPage() {
     const { t } = useTranslation();
 
-    // Puxando as estruturas de dados diretamente do JSON de tradução
     const personalInfo = t('personalInfo', { returnObjects: true }) as any;
     const experienceData = t('experienceData', { returnObjects: true }) as any[];
     const educationData = t('educationData', { returnObjects: true }) as any[];

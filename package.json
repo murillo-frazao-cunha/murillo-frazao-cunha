@@ -12,8 +12,10 @@
     "react"
   ],
   "scripts": {
-    "start": "vatts start --port 80",
-    "dev": "vatts dev --port 80"
+    "start": "vatts start",
+    "dev": "vatts dev",
+    "build": "vatts build",
+    "export": "vatts export"
   },
   "dependencies": {
     "@react-pdf/renderer": "^4.5.1",
@@ -30,7 +32,7 @@
     "react-transition-group": "^4.4.5",
     "tailwindcss": "^4.3.0",
     "ts-node": "^10.9.2",
-    "vatts": "^2.2.5"
+    "vatts": "^2.2.6"
   },
   "devDependencies": {
     "@types/react": "^19.2.16",

@@ -1,0 +1,59 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["master"] # Altere para a sua branch principal (ex: master, main)
+  workflow_dispatch:
+
+# Permissões necessárias para o GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Garante que apenas um deploy rode por vez
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Build do projeto
+        run: npm run export
+
+      - name: Descompactar arquivos .gz em .vatts
+        run: |
+          if [ -d "exported/.vatts" ]; then
+            echo "Pasta .vatts encontrada. Descompactando arquivos .gz..."
+            find exported/.vatts -name "*.gz" -exec gunzip -f {} +
+          else
+            echo "Pasta .vatts não encontrada, pulando descompactação."
+          fi
+
+      - name: Copiar index para 404 (SPA Fallback)
+        run: cp exported/index.html exported/404.html
+
+      - name: Upload do artefato para o Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'exported' # Envia apenas o conteúdo da pasta exported
+
+      - name: Deploy para o GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
