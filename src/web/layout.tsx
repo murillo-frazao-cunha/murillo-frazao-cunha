@@ -14,10 +14,68 @@ interface LayoutProps {
 
 export const metadata: Metadata = {
     title: "Home | Murillo Frazão",
-    description: "Backend Engineer & Systems Administrator specialized in high-performance systems, scalable infrastructure, and robust software architecture..",
+    description: "Backend Engineer & Systems Administrator focused on high-performance systems, scalable infrastructure, and reliable software architecture.",
+
+    keywords: [
+        "Murillo Frazão",
+        "Backend Engineer",
+        "Systems Administrator",
+        "Software Engineer",
+        "DevOps",
+        "Linux",
+        "Docker",
+        "Infrastructure",
+        "Cloud Computing",
+        "Software Architecture",
+        "Backend Development",
+        "Portfolio",
+        "Full Stack Developer",
+        "Open Source"
+    ],
+
+    author: "Murillo Frazão",
+
+    favicon: "/favicon.png",
+    appleTouchIcon: "/favicon.png",
+
+    charset: "UTF-8",
+    language: "en-US",
+
+    viewport: "width=device-width, initial-scale=1",
     themeColor: "#0A0A0A",
-    favicon: '/favicon.png',
-    charset: "UTF-8"
+
+    canonical: "https://mfraz.ovh",
+
+    robots: "index, follow, max-image-preview:large",
+
+    openGraph: {
+        title: "Murillo Frazão",
+        description: "Backend Engineer & Systems Administrator focused on high-performance systems, scalable infrastructure, and reliable software architecture.",
+        type: "website",
+        url: "https://mfraz.ovh",
+        image: {
+            url: "https://mfraz.ovh/favicon.png",
+            alt: "Murillo Frazão Portfolio"
+        },
+        siteName: "Murillo Frazão",
+        locale: "en_US"
+    },
+
+    twitter: {
+        card: "summary",
+        title: "Murillo Frazão",
+        description: "Backend Engineer & Systems Administrator focused on high-performance systems, scalable infrastructure, and reliable software architecture.",
+        image: "https://mfraz.ovh/favicon.png",
+        imageAlt: "Murillo Frazão Portfolio"
+    },
+
+    other: {
+        "color-scheme": "dark",
+        "application-name": "Murillo Frazão Portfolio",
+        "apple-mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "mobile-web-app-capable": "yes"
+    }
 };
 
 export default function Layout({ children }: LayoutProps) {
