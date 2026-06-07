@@ -21,10 +21,6 @@ Atualmente trabalhando em:
 - Sistemas de comunicação em tempo real
 - Arquiteturas backend de alta performance
 
-Fundador de:
-- [mfrazlab](https://github.com/mfrazlab)
-- [Vatts.js](https://github.com/mfrazlab/vatts.js)
-
 ---
 
 ## Tecnologias
@@ -44,8 +40,8 @@ Fundador de:
 ### Frameworks & Tecnologias
 
 <div align="left">
-  <a href="https://github.com/mfrazlab/vatts.js">
-    <img src="https://raw.githubusercontent.com/mfrazlab/vatts-docs/master/public/logo.png" width="42" />
+  <a href="https://github.com/murillo-frazao-cunha/vatts.js">
+    <img src="https://raw.githubusercontent.com/murillo-frazao-cunha/vatts-docs/master/public/logo.png" width="42" />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" />

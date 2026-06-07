@@ -12,7 +12,7 @@
       "I hold a technical degree in Electronics from SENAI and am currently pursuing a Bachelor's degree in Computer Science at FSA, combining hardware and software knowledge to build scalable, modern, and efficient solutions."
     ],
     "socials": [
-      { "name": "GitHub", "url": "https://github.com/mfrazlab", "icon": "github" },
+      { "name": "GitHub", "url": "https://github.com/murillo-frazao-cunha", "icon": "github" },
       { "name": "LinkedIn", "url": "https://www.linkedin.com/in/murillo-fraz%C3%A3o-cunha/", "icon": "linkedin" },
       { "name": "Instagram", "url": "https://instagram.com/itsmuh_", "icon": "instagram" },
       { "name": "Email", "url": "mailto:murillofrazaocunha@gmail.com", "icon": "mail" }
@@ -269,9 +269,9 @@
       "type": "PERSONAL PROJECT",
       "description": "A modern, full-stack web framework for Node.js, built with first-class native support for React and Vue. The project introduces out-of-the-box native HTTP/3 support using an HTTP server written in Go with integrated SSL termination, allowing applications to run directly on the web's latest transport protocol without relying on proxies or external layers. It also features an integrated system for routing, authentication, APIs, and optimized rendering for modern applications.",
       "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue"],
-      "images": ["https://raw.githubusercontent.com/mfrazlab/vatts-docs/master/public/logo.png"],
+      "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/vatts-docs/master/public/logo.png"],
       "demoUrl": "https://npmjs.com/package/vatts",
-      "sourceCodeUrl": "https://github.com/mfrazlab/vatts.js"
+      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/vatts.js"
     },
     {
       "title": "SmartBus - Intelligent Passenger Monitoring",
@@ -286,7 +286,7 @@
       "description": "Development of a modern management panel for servers and Docker containers, inspired by large-scale infrastructure platforms. The frontend was developed in React, while the backend was written in PHP, offering real-time management of instances, users, resources, and administrative operations with a focus on performance, usability, and automation.",
       "tags": ["React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
-      "sourceCodeUrl": "https://github.com/mfrazlab/panel"
+      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
     {
       "title": "Lunar Plume - Daemon",
@@ -294,7 +294,7 @@
       "description": "Development of Lunar Plume, the daemon responsible for direct communication between the panel and Docker servers. Written in Go, the system manages container creation, resource monitoring, command execution, and real-time operations, leveraging concurrency and efficient communication to ensure high performance, stability, and low latency.",
       "tags": ["Go", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
       "images": ["/panel/plume.png"],
-      "sourceCodeUrl": "https://github.com/mfrazlab/plume"
+      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/plume"
     },
     {
       "title": "Hight MC - Minecraft",
