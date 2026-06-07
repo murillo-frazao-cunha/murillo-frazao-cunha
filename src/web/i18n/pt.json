@@ -286,7 +286,7 @@
       "title": "Lunar Panel - Management",
       "type": "PROJETO PESSOAL",
       "description": "Desenvolvimento de um painel moderno de gerenciamento para servidores e contêineres Docker, inspirado em plataformas de infraestrutura de grande escala. O frontend foi desenvolvido em React, enquanto o backend foi escrito em PHP, oferecendo gerenciamento em tempo real de instâncias, usuários, recursos e operações administrativas com foco em desempenho, usabilidade e automação.",
-      "tags": ["React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "tags": ["Vatts.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
@@ -294,7 +294,7 @@
       "title": "Lunar Plume - Daemon",
       "type": "INFRAESTRUTURA",
       "description": "Desenvolvimento do Lunar Plume, daemon responsável pela comunicação direta entre o painel e os servidores Docker. Escrito em Go, o sistema gerencia criação de contêineres, monitoramento de recursos, execução de comandos e operações em tempo real, utilizando concorrência e comunicação eficiente para garantir alta performance, estabilidade e baixa latência.",
-      "tags": ["Go", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
+      "tags": ["C#", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
       "images": ["/panel/plume.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/plume"
     },
@@ -316,7 +316,7 @@
       "title": "Hight - Loja",
       "type": "E-COMMERCE",
       "description": "Desenvolvimento da loja oficial da Hight durante o processo de internacionalização da plataforma. O sistema foi criado com foco em automação, performance e experiência do usuário, contando com integração direta ao servidor, pagamentos via Stripe e criptomoedas, entrega automática de produtos digitais e uma interface moderna totalmente responsiva.",
-      "tags": ["Next.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
+      "tags": ["Vatts.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
       "images": ["/store.png"]
     }
   ]

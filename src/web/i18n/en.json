@@ -284,7 +284,7 @@
       "title": "Lunar Panel - Management",
       "type": "PERSONAL PROJECT",
       "description": "Development of a modern management panel for servers and Docker containers, inspired by large-scale infrastructure platforms. The frontend was developed in React, while the backend was written in PHP, offering real-time management of instances, users, resources, and administrative operations with a focus on performance, usability, and automation.",
-      "tags": ["React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "tags": ["Vatts.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
@@ -292,7 +292,7 @@
       "title": "Lunar Plume - Daemon",
       "type": "INFRASTRUCTURE",
       "description": "Development of Lunar Plume, the daemon responsible for direct communication between the panel and Docker servers. Written in Go, the system manages container creation, resource monitoring, command execution, and real-time operations, leveraging concurrency and efficient communication to ensure high performance, stability, and low latency.",
-      "tags": ["Go", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
+      "tags": ["C#", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
       "images": ["/panel/plume.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/plume"
     },
@@ -314,7 +314,7 @@
       "title": "Hight - Store",
       "type": "E-COMMERCE",
       "description": "Development of the official Hight store during the platform's internationalization process. The system was built with a focus on automation, performance, and user experience, featuring direct integration with the server, payments via Stripe and cryptocurrencies, automatic delivery of digital products, and a fully responsive, modern interface.",
-      "tags": ["Next.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
+      "tags": ["Vatts.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
       "images": ["/store.png"]
     }
   ]
