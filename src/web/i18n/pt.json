@@ -5,12 +5,11 @@
     "title": "Full-Stack Developer",
     "profileImageUrl": "https://www.gravatar.com/avatar/b2b9697ab2727ac792bfa53356d81880?s=400",
     "bio": [
-      "Full Stack Developer focused on scalable systems, high performance, and modern software architecture. Experience in building complete applications, from robust backend systems to interfaces and administrative dashboards.",
-      "Experience in developing REST APIs and distributed systems, applying software best practices, system architecture, and performance optimization.",
-      "Experience with Linux infrastructure, process automation, and container management using Docker and deployment/scalability tools.",
-      "Works with relational and NoSQL databases such as PostgreSQL, Redis, and MongoDB, ensuring performance, consistency, and high availability.",
-      "Interest in software architecture, backend engineering, and building custom tools focused on automation, productivity, and application monitoring.",
-      "Undergraduate student in Computer Science at Fundação Santo André (FSA) and a graduate in Industrial Electronics Technician from SENAI, integrating hardware and software knowledge to build efficient solutions."
+      "Sou Desenvolvedor Backend com experiência na construção de aplicações escaláveis, sistemas de alta performance e infraestrutura Linux. Trabalho principalmente com Java, Kotlin e Node.js, desenvolvendo soluções modernas com foco em desempenho, automação e escalabilidade.",
+      "Possuo experiência na criação de APIs robustas, arquitetura de sistemas distribuídos e gerenciamento de infraestrutura, utilizando tecnologias como Docker, PostgreSQL, Redis e MongoDB para construir aplicações eficientes e resilientes.",
+      "Também atuo no desenvolvimento de painéis de infraestrutura e gerenciamento de contêineres, incluindo daemons responsáveis pela comunicação e execução de processos em servidores Linux, aplicando conceitos de monitoramento, automação e comunicação em tempo real.",
+      "Tenho grande interesse em arquitetura de software, otimização de desempenho e no desenvolvimento de ferramentas próprias voltadas para produtividade e organização de aplicações backend.",
+      "Possuo formação técnica em Eletroeletrônica pelo SENAI e atualmente curso Bacharelado em Ciência da Computação na FSA, combinando conhecimentos de hardware e software para criar soluções escaláveis, modernas e eficientes."
     ],
     "socials": [
       { "name": "GitHub", "url": "https://github.com/murillo-frazao-cunha", "icon": "github" },
