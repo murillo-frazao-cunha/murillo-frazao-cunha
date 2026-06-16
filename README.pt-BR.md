@@ -40,8 +40,8 @@ Atualmente trabalhando em:
 ### Frameworks & Tecnologias
 
 <div align="left">
-  <a href="https://github.com/murillo-frazao-cunha/vatts.js">
-    <img src="https://raw.githubusercontent.com/murillo-frazao-cunha/vatts-docs/master/public/logo.png" width="42" />
+  <a href="https://github.com/murillo-frazao-cunha/nytlex.js">
+    <img src="https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg" width="42" />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" />
@@ -64,7 +64,7 @@ Atualmente trabalhando em:
 
 ## Projetos em Destaque
 
-- ⚡ [Vatts.js](https://github.com/murillo-frazao-cunha/vatts.js)  
+- ⚡ [Nytlex.js](https://github.com/murillo-frazao-cunha/nytlex.js)  
   Framework full-stack moderno com suporte nativo a HTTP/3.
 
 - 🐳 [Lunar Panel](https://github.com/murillo-frazao-cunha/panel)  
