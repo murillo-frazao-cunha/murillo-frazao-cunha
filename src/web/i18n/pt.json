@@ -87,9 +87,9 @@
   "experienceData": [
     {
       "role": "Core Maintainer",
-      "company": "Vatts.js",
+      "company": "Nytlex.js",
       "period": "Out 2025 — Presente",
-      "description": "Vatts.js é um framework full-stack de alta performance, focado em otimização de runtime e entrega de aplicações escaláveis, com suporte a HTTP/3 e integração com serviços em Go para otimização de assets e infraestrutura."
+      "description": "Nytlex.js é um framework full-stack de alta performance, focado em otimização de runtime e entrega de aplicações escaláveis, com suporte a HTTP/3 e integração com serviços em Go para otimização de assets e infraestrutura."
     },
     {
       "role": "Lead Infrastructure Engineer",
@@ -267,13 +267,13 @@
   ],
   "projects": [
     {
-      "title": "Vatts.js - Framework",
+      "title": "Nytlex.js - Framework",
       "type": "PROJETO PESSOAL",
-      "description": "Framework web moderno e full-stack para Node.js, desenvolvido com suporte nativo e de primeira classe para React e Vue. O projeto introduz suporte nativo ao HTTP/3 pronto para uso, utilizando um servidor HTTP escrito em Go com terminação SSL integrada, permitindo que aplicações executem diretamente no protocolo de transporte mais recente da web sem depender de proxies ou camadas externas. Também possui sistema integrado de roteamento, autenticação, APIs e renderização otimizada para aplicações modernas.",
-      "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue"],
-      "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/vatts-docs/master/public/logo.png"],
-      "demoUrl": "https://npmjs.com/package/vatts",
-      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/vatts.js"
+      "description": "Framework web moderno e full-stack para Node.js, desenvolvido com suporte nativo e de primeira classe para React, Vue e Svelte. O projeto introduz suporte nativo ao HTTP/3 pronto para uso, utilizando um servidor HTTP escrito em Go com terminação SSL integrada, permitindo que aplicações executem diretamente no protocolo de transporte mais recente da web sem depender de proxies ou camadas externas. Também possui sistema integrado de roteamento, autenticação, APIs e renderização otimizada para aplicações modernas.",
+      "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue", "Svelte"],
+      "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg"],
+      "demoUrl": "https://npmjs.com/package/nytlex",
+      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/nytlex.js"
     },
     {
       "title": "SmartBus - Monitoramento Inteligente de Passageiros",
@@ -286,7 +286,7 @@
       "title": "Lunar Panel - Management",
       "type": "PROJETO PESSOAL",
       "description": "Desenvolvimento de um painel moderno de gerenciamento para servidores e contêineres Docker, inspirado em plataformas de infraestrutura de grande escala. O frontend foi desenvolvido em React, enquanto o backend foi escrito em PHP, oferecendo gerenciamento em tempo real de instâncias, usuários, recursos e operações administrativas com foco em desempenho, usabilidade e automação.",
-      "tags": ["Vatts.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "tags": ["Nytlex.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
@@ -316,7 +316,7 @@
       "title": "Hight - Loja",
       "type": "E-COMMERCE",
       "description": "Desenvolvimento da loja oficial da Hight durante o processo de internacionalização da plataforma. O sistema foi criado com foco em automação, performance e experiência do usuário, contando com integração direta ao servidor, pagamentos via Stripe e criptomoedas, entrega automática de produtos digitais e uma interface moderna totalmente responsiva.",
-      "tags": ["Vatts.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
+      "tags": ["Nytlex.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
       "images": ["/store.png"]
     }
   ]

@@ -85,9 +85,9 @@
   "experienceData": [
     {
       "role": "Core Maintainer",
-      "company": "Vatts.js",
+      "company": "Nytlex.js",
       "period": "Oct 2025 — Present",
-      "description": "Responsible for the architecture and development of Vatts.js, a high-performance full-stack framework focused on runtime optimization, HTTP/3, and integration with Go-based services for secure infrastructure and communication."
+      "description": "Responsible for the architecture and development of Nytlex.js, a high-performance full-stack framework focused on runtime optimization, HTTP/3, and integration with Go-based services for secure infrastructure and communication."
     },
     {
       "role": "Lead Infrastructure Engineer",
@@ -265,13 +265,13 @@
   ],
   "projects": [
     {
-      "title": "Vatts.js - Framework",
+      "title": "Nytlex.js - Framework",
       "type": "PERSONAL PROJECT",
-      "description": "A modern, full-stack web framework for Node.js, built with first-class native support for React and Vue. The project introduces out-of-the-box native HTTP/3 support using an HTTP server written in Go with integrated SSL termination, allowing applications to run directly on the web's latest transport protocol without relying on proxies or external layers. It also features an integrated system for routing, authentication, APIs, and optimized rendering for modern applications.",
-      "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue"],
-      "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/vatts-docs/master/public/logo.png"],
-      "demoUrl": "https://npmjs.com/package/vatts",
-      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/vatts.js"
+      "description": "A modern, full-stack web framework for Node.js, built with first-class native support for React, Vue and Svelte. The project introduces out-of-the-box native HTTP/3 support using an HTTP server written in Go with integrated SSL termination, allowing applications to run directly on the web's latest transport protocol without relying on proxies or external layers. It also features an integrated system for routing, authentication, APIs, and optimized rendering for modern applications.",
+      "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue", "Svelte"],
+      "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg"],
+      "demoUrl": "https://npmjs.com/package/nytlex",
+      "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/nytlex.js"
     },
     {
       "title": "SmartBus - Intelligent Passenger Monitoring",
@@ -284,7 +284,7 @@
       "title": "Lunar Panel - Management",
       "type": "PERSONAL PROJECT",
       "description": "Development of a modern management panel for servers and Docker containers, inspired by large-scale infrastructure platforms. The frontend was developed in React, while the backend was written in PHP, offering real-time management of instances, users, resources, and administrative operations with a focus on performance, usability, and automation.",
-      "tags": ["Vatts.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "tags": ["Nytlex.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
@@ -314,7 +314,7 @@
       "title": "Hight - Store",
       "type": "E-COMMERCE",
       "description": "Development of the official Hight store during the platform's internationalization process. The system was built with a focus on automation, performance, and user experience, featuring direct integration with the server, payments via Stripe and cryptocurrencies, automatic delivery of digital products, and a fully responsive, modern interface.",
-      "tags": ["Vatts.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
+      "tags": ["Nytlex.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
       "images": ["/store.png"]
     }
   ]

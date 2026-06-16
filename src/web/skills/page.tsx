@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Metadata } from "vatts/react";
+import { Metadata } from "nytlex/react";
 
 interface Skill {
     name: string;

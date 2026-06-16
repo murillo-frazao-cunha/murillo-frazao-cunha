@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { ProjectCard } from '../components/ProjectCard';
-import { Metadata } from "vatts/react";
+import { Metadata } from "nytlex/react";
 
 export default function ProjectsPage() {
     const { t } = useTranslation();

@@ -1,8 +1,8 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Metadata } from "vatts/react";
+import { Metadata } from "nytlex/react";
 
-// Polyfill Vatts
+// Polyfill nytlex
 if (typeof window !== 'undefined') {
     (window as any).global = window;
 }

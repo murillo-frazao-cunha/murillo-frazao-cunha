@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Metadata } from "vatts/react";
+import { Metadata } from "nytlex/react";
 
 export default function AboutPage() {
     const { t } = useTranslation();

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link, Metadata, router} from "vatts/react";
+import {Link, Metadata, router} from "nytlex/react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useTranslation } from 'react-i18next';
 
@@ -13,11 +13,15 @@ interface LayoutProps {
 }
 
 export const metadata: Metadata = {
-    title: "Home | Murillo Frazão",
-    description: "Backend Engineer & Systems Administrator focused on high-performance systems, scalable infrastructure, and reliable software architecture.",
+    title: "Home | Murillo Frazão Cunha",
+    description: "Backend and Systems Administrator focused on high-performance systems, scalable infrastructure, and reliable software architecture.",
 
     keywords: [
         "Murillo Frazão",
+        "Murillo",
+        "Frazão",
+        "Cunha",
+        "Murillo Frazão Cunha",
         "Backend Engineer",
         "Systems Administrator",
         "Software Engineer",
@@ -33,7 +37,7 @@ export const metadata: Metadata = {
         "Open Source"
     ],
 
-    author: "Murillo Frazão",
+    author: "Murillo Frazão Cunha",
 
     favicon: "/favicon.png",
     appleTouchIcon: "/favicon.png",
