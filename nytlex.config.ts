@@ -1,6 +1,6 @@
-import type { VattsConfig, VattsConfigFunction } from 'vatts';
+import type { NytlexConfigFunction } from 'nytlex';
 
-const hightConfig: VattsConfigFunction = (phase, { defaultConfig }) => {
+const hightConfig: NytlexConfigFunction = (phase, { defaultConfig }) => {
     return defaultConfig;
 };
 

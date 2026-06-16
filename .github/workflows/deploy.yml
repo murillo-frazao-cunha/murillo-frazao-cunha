@@ -37,13 +37,13 @@ jobs:
       - name: Build do projeto
         run: npm run export
 
-      - name: Descompactar arquivos .gz em .vatts
+      - name: Descompactar arquivos .gz em .nytlex
         run: |
-          if [ -d "exported/.vatts" ]; then
-            echo "Pasta .vatts encontrada. Descompactando arquivos .gz..."
-            find exported/.vatts -name "*.gz" -exec gunzip -f {} +
+          if [ -d "exported/.nytlex" ]; then
+            echo "Pasta .nytlex encontrada. Descompactando arquivos .gz..."
+            find exported/.nytlex -name "*.gz" -exec gunzip -f {} +
           else
-            echo "Pasta .vatts não encontrada, pulando descompactação."
+            echo "Pasta .nytlex não encontrada, pulando descompactação."
           fi
 
       - name: Copiar index para 404 (SPA Fallback)
