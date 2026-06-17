@@ -1,15 +1,14 @@
 {
-
   "personalInfo": {
     "name": "Murillo Frazão Cunha",
     "title": "Full-Stack Developer",
-    "profileImageUrl": "https://www.gravatar.com/avatar/b2b9697ab2727ac792bfa53356 there1880?s=400",
+    "profileImageUrl": "https://www.gravatar.com/avatar/b2b9697ab2727ac792bfa53356d81880?s=400",
     "bio": [
-      "I am a Backend Developer with experience in building scalable applications, high-performance systems, and Linux infrastructure. I primarily work with Java, Kotlin, and Node.js, developing modern solutions focused on performance, automation, and scalability.",
-      "I have experience in creating robust APIs, distributed systems architecture, and infrastructure management, leveraging technologies such as Docker, PostgreSQL, Redis, and MongoDB to build efficient and resilient applications.",
-      "I also work on developing infrastructure and container management panels, including daemons responsible for communication and process execution on Linux servers, applying concepts of monitoring, automation, and real-time communication.",
-      "I have a strong interest in software architecture, performance optimization, and developing my own tools aimed at backend application productivity and organization.",
-      "I hold a technical degree in Electronics from SENAI and am currently pursuing a Bachelor's degree in Computer Science at FSA, combining hardware and software knowledge to build scalable, modern, and efficient solutions."
+      "I am a Backend Developer with experience in building scalable applications, high-performance systems, and Linux infrastructure. I work primarily with Java, Kotlin, and Node.js, developing modern solutions focused on performance, automation, and scalability.",
+      "I have experience creating robust APIs, designing distributed system architectures, and managing infrastructure using technologies like Docker, PostgreSQL, Redis, and MongoDB to build efficient and resilient applications.",
+      "I also work on developing infrastructure panels and container management systems, including daemons responsible for communication and process execution on Linux servers, applying concepts of monitoring, automation, and real-time communication.",
+      "I have a strong interest in software architecture, performance optimization, and developing custom tools aimed at productivity and backend application organization.",
+      "I hold a technical degree in Electrotechnics from SENAI and am currently pursuing a Bachelor's degree in Computer Science at FSA, combining hardware and software knowledge to create scalable, modern, and efficient solutions."
     ],
     "socials": [
       { "name": "GitHub", "url": "https://github.com/murillo-frazao-cunha", "icon": "github" },
@@ -40,7 +39,7 @@
     "phone": "+55 (11) 99225-4957",
     "linkedin": "linkedin.com/in/murillo-frazão-cunha/",
     "website": "mfraz.ovh",
-    "summary": "Full-Stack Developer focused on distributed environments, scalable systems, and Linux infrastructure. Solid practical experience with Java, Node.js, and Go, combining the creation of robust backend and automation tools with the development of modern interfaces.",
+    "summary": "Full-Stack Developer focused on distributed environments, scalable systems, and Linux infrastructure. Solid practical experience with Java, Node.js, and Go, combining the creation of robust backend tools and automation with the development of modern interfaces.",
     "languages": [
       { "name": "Portuguese", "level": "Native" },
       { "name": "English", "level": "Intermediate (B2)" }
@@ -55,7 +54,7 @@
       "summaryTitle": "Professional Summary",
       "experienceTitle": "Professional Experience",
       "educationTitle": "Academic Background",
-      "skillsTitle": "Technical Competencies",
+      "skillsTitle": "Technical Skills",
       "languagesTitle": "Languages",
       "certificationsTitle": "Certifications"
     },
@@ -67,9 +66,9 @@
   },
   "timeline": {
     "title": "Timeline",
-    "description": "Chronological tracking of my technical evolution. From developing plugins at age 12 to the architecture of distributed systems and modern frameworks.",
+    "description": "Chronological tracking of my technical evolution. From developing plugins at age 12 to architecting distributed systems and modern frameworks.",
     "activeNow": "Active Now",
-    "activeSubtitle": "Current occupations and ongoing studies",
+    "activeSubtitle": "Ongoing occupations and studies",
     "historyTitle": "History & Achievements",
     "badgeWork": "EXPERIENCE",
     "badgeEducation": "EDUCATION",
@@ -77,7 +76,7 @@
   },
   "skills": {
     "title": "Skills & Technologies",
-    "description": "Technologies, tools, and areas in which I have practical experience in application development, infrastructure, and backend systems."
+    "description": "Technologies, tools, and areas where I have practical experience in developing applications, infrastructure, and backend systems."
   },
   "footer": {
     "rights": "All rights reserved."
@@ -87,25 +86,25 @@
       "role": "Core Maintainer",
       "company": "Nytlex.js",
       "period": "Oct 2025 — Present",
-      "description": "Responsible for the architecture and development of Nytlex.js, a high-performance full-stack framework focused on runtime optimization, HTTP/3, and integration with Go-based services for secure infrastructure and communication."
+      "description": "Nytlex.js is a high-performance full-stack framework focused on runtime optimization and delivering scalable applications, featuring HTTP/3 support and integration with Go services for asset and infrastructure optimization."
     },
     {
       "role": "Lead Infrastructure Engineer",
       "company": "Lunar Panel",
       "period": "Jan 2026 — Present",
-      "description": "Development of a Docker container management platform focused on Linux environment automation and game hosting, including the architecture of the execution daemon and process communication, as well as the administrative panel for provisioning, monitoring, and resource management."
+      "description": "Lunar Panel is a Docker container management platform for Linux environment automation and game hosting, featuring an execution daemon and administrative panel for provisioning, monitoring, and resource management."
     },
     {
       "role": "Full-Stack Developer",
       "company": "Hight",
       "period": "Mar 2024 — Feb 2026",
-      "description": "Worked on high-performance backends using Java and Kotlin, focusing on scalability, optimization, and high-concurrency systems. Experience with MySQL, Redis, and Linux infrastructure architecture for high-demand environments."
+      "description": "High-performance backend development in Java and Kotlin for high-concurrency systems, focusing on scalability, optimization, and stability. Experience with MySQL, Redis, and Linux infrastructure, applying architecture geared towards high-demand environments."
     },
     {
       "role": "Embedded Systems Developer (Capstone Project)",
       "company": "SENAI",
       "period": "2025",
-      "description": "Development of an intelligent passenger monitoring system for public transit as a final course project, utilizing Arduino Mega, ultrasonic sensors, and an ESP8266 for data detection and Wi-Fi transmission. Includes a React web interface for real-time monitoring and visualization of the collected data."
+      "description": "Development of a smart passenger monitoring system for public transport, using Arduino Mega, ultrasonic sensors, and ESP8266 for data collection and transmission via Wi-Fi, with a React web interface for real-time monitoring and visualization."
     }
   ],
   "educationData": [
@@ -113,13 +112,13 @@
       "degree": "Computer Science",
       "institution": "Fundação Santo André (FSA)",
       "period": "Feb 2026 — Present",
-      "description": "Focus on computer science fundamentals, systems architecture, backend, distributed systems, and framework development."
+      "description": "Focus on computing fundamentals, systems architecture, backend, distributed systems, and framework development."
     },
     {
       "degree": "Electronics Technician",
       "institution": "SENAI",
       "period": "Jan 2024 — Dec 2025",
-      "description": "Study of electronics, automation, digital logic, networking, and practical integration between hardware and software."
+      "description": "Study of electronics, automation, digital logic, networks, and practical integration between hardware and software."
     }
   ],
   "certificationsData": [
@@ -136,25 +135,25 @@
       "description": "Analysis of Web history and exploration of emerging technologies applied to Web 3.0."
     },
     {
-      "degree": "Demystifying Industry 4.0 — 20h",
+      "degree": "Unraveling Industry 4.0 — 20h",
       "institution": "SENAI SP",
       "period": "Mar 2025 — May 2025",
       "description": "Enabling technologies: Big Data, IoT, Cloud Computing, Artificial Intelligence, and Digital Security."
     },
     {
-      "degree": "Demystifying ESG — 20h",
+      "degree": "Unraveling ESG — 20h",
       "institution": "SENAI SP",
       "period": "Mar 2025 — Nov 2025",
-      "description": "Environmental, social, and corporate governance principles focused on business sustainability."
+      "description": "Principles of environmental, social, and corporate governance aimed at corporate sustainability."
     },
     {
-      "degree": "Empreender SENAI (Entrepreneurship) — 20h",
+      "degree": "Entrepreneurship SENAI — 20h",
       "institution": "SENAI SP",
       "period": "Mar 2025 — May 2025",
       "description": "Structuring own businesses, evaluating technical feasibility, market, and legal aspects."
     },
     {
-      "degree": "Demystifying 5G — 15h",
+      "degree": "Unraveling 5G — 15h",
       "institution": "SENAI SP",
       "period": "Mar 2024 — Nov 2024",
       "description": "Evolution of mobile networks, basic infrastructure, and advanced applications of 5G technology."
@@ -163,16 +162,16 @@
       "degree": "Circular Economy — 20h",
       "institution": "SENAI SP",
       "period": "Mar 2024 — Apr 2024",
-      "description": "Circular production models, smart consumption, and transition fields integrating Industry 4.0."
+      "description": "Circular production models, smart consumption, and transition integrating Industry 4.0."
     },
     {
-      "degree": "Transversal Competence - Occupational Safety — 14h",
+      "degree": "Transversal Competence - Workplace Safety — 14h",
       "institution": "SENAI SP",
       "period": "Mar 2024 — Nov 2024",
-      "description": "Prevention of occupational risks, PPE/EPC guidelines, CIPA regulations, and risk mapping."
+      "description": "Prevention of occupational risks, PPE/CPE guidelines, CIPA standards, and risk maps."
     },
     {
-      "degree": "Privacy and Data Protection (LGPD) — 4h",
+      "degree": "Data Privacy and Protection (LGPD) — 4h",
       "institution": "SENAI SP",
       "period": "Mar 2024 — Apr 2024",
       "description": "Digital privacy under LGPD, data subjects' rights, governance, and legal compliance."
@@ -258,7 +257,7 @@
         { "name": "GitHub", "description": "Project and repository management" },
         { "name": "JetBrains IDEs", "description": "Professional development and productivity" },
         { "name": "IntelliJ IDEA", "description": "Backend and Java development" },
-        { "name": "WebStorm", "description": "Modern JavaScript and TypeScript applications" },
+        { "name": "WebStorm", "description": "Modern applications in JavaScript and TypeScript" },
         { "name": "VSCode", "description": "Lightweight editor for general development" }
       ]
     }
@@ -267,7 +266,7 @@
     {
       "title": "Nytlex.js - Framework",
       "type": "PERSONAL PROJECT",
-      "description": "A modern, full-stack web framework for Node.js, built with first-class native support for React, Vue and Svelte. The project introduces out-of-the-box native HTTP/3 support using an HTTP server written in Go with integrated SSL termination, allowing applications to run directly on the web's latest transport protocol without relying on proxies or external layers. It also features an integrated system for routing, authentication, APIs, and optimized rendering for modern applications.",
+      "description": "Modern, full-stack web framework for Node.js, developed with native, first-class support for React, Vue, and Svelte. The project introduces native out-of-the-box HTTP/3 support, utilizing an HTTP server written in Go with integrated SSL termination, allowing applications to run directly on the web's latest transport protocol without relying on external proxies or layers. It also features an integrated routing system, authentication, APIs, and optimized rendering for modern applications.",
       "tags": ["Framework", "TypeScript", "Node.js", "API", "Backend", "Frontend", "Open Source", "Full-Stack", "React", "Vue", "Svelte"],
       "images": ["https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg"],
       "demoUrl": "https://npmjs.com/package/nytlex",
@@ -275,45 +274,45 @@
     },
     {
       "title": "SmartBus - Intelligent Passenger Monitoring",
-      "type": "CAPSTONE PROJECT / EMBEDDED SYSTEMS",
-      "description": "Development of an intelligent passenger monitoring system for public transit using embedded hardware and real-time communication. The project consisted of a functional bus prototype with automated detection of people entering and exiting via ultrasonic sensors connected to an Arduino Mega, with data transmission via an ESP8266 using a Wi-Fi network. A web interface in React was also developed for real-time monitoring of passenger counts, metrics visualization, and hardware-software integration.",
-      "tags": ["Arduino", "ESP8266", "React", "IoT", "Sistemas Embarcados", "Wi-Fi", "Sensores", "Hardware", "Frontend", "Tempo Real"],
+      "type": "CAPSTONE / EMBEDDED SYSTEMS",
+      "description": "Development of a smart passenger monitoring system for public transportation using embedded hardware and real-time communication. The project consisted of a functional bus prototype with automated detection of people entering and exiting via ultrasonic sensors connected to an Arduino Mega, with data transmission via ESP8266 using a Wi-Fi network. A React web interface was also developed for real-time monitoring of passenger count, metrics visualization, and hardware-software integration.",
+      "tags": ["Arduino", "ESP8266", "React", "IoT", "Embedded Systems", "Wi-Fi", "Sensors", "Hardware", "Frontend", "Real Time"],
       "images": ["/tcc/dash.png", "/tcc/bus.png", "/tcc/esquema.png"]
     },
     {
       "title": "Lunar Panel - Management",
       "type": "PERSONAL PROJECT",
-      "description": "Development of a modern management panel for servers and Docker containers, inspired by large-scale infrastructure platforms. The frontend was developed in React, while the backend was written in PHP, offering real-time management of instances, users, resources, and administrative operations with a focus on performance, usability, and automation.",
-      "tags": ["Nytlex.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Gerenciamento"],
+      "description": "Development of a modern management panel for servers and Docker containers, inspired by large-scale infrastructure platforms. The frontend was developed in React, while the backend was written in PHP, offering real-time management of instances, users, resources, and administrative operations focusing on performance, usability, and automation.",
+      "tags": ["Nytlex.js", "React", "PHP", "Docker", "JavaScript", "TypeScript", "MySQL", "Management"],
       "images": ["/panel/dash.png", "/panel/admin.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/panel"
     },
     {
       "title": "Lunar Plume - Daemon",
       "type": "INFRASTRUCTURE",
-      "description": "Development of Lunar Plume, the daemon responsible for direct communication between the panel and Docker servers. Written in Go, the system manages container creation, resource monitoring, command execution, and real-time operations, leveraging concurrency and efficient communication to ensure high performance, stability, and low latency.",
-      "tags": ["C#", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
+      "description": "Development of Lunar Plume, a daemon responsible for direct communication between the panel and Docker servers. Written in Go, the system manages container creation, resource monitoring, command execution, and real-time operations, utilizing concurrency and efficient communication to ensure high performance, stability, and low latency.",
+      "tags": ["Go", "Docker", "Daemon", "Infrastructure", "Containers", "API", "Performance"],
       "images": ["/panel/plume.png"],
       "sourceCodeUrl": "https://github.com/murillo-frazao-cunha/plume"
     },
     {
       "title": "Hight MC - Minecraft",
       "type": "PROJECT LEADERSHIP",
-      "description": "Acted as one of the leaders in the development and management of Hight, a large-scale multiplayer Minecraft server. I was responsible for the architecture and implementation of several advanced systems in Java and Kotlin, working directly on performance, scalability, and stability to support thousands of concurrent players. I also participated in the integration of distributed services, infrastructure optimization, and the development of solutions connected with Redis, PostgreSQL, and MySQL.",
-      "tags": ["Java", "Kotlin", "Redis", "PostgreSQL", "MySQL", "Arquitetura", "Liderança"],
+      "description": "Acted as one of the leads in the development and management of Hight, a large-scale multiplayer Minecraft server. I was responsible for the architecture and implementation of several advanced systems in Java and Kotlin, working directly on performance, scalability, and stability to support thousands of simultaneous players. I also participated in the integration of distributed services, infrastructure optimization, and development of connected solutions with Redis, PostgreSQL, and MySQL.",
+      "tags": ["Java", "Kotlin", "Redis", "PostgreSQL", "MySQL", "Architecture", "Leadership"],
       "images": ["/Hight-Server.png"]
     },
     {
       "title": "Hight - Forum",
       "type": "WEB PROJECT",
-      "description": "Full development of the official Hight forum utilizing Next.js, React, and TypeScript. The system featured direct integration with the Minecraft server, custom authentication, multi-language support, and a modern interface tailored for community interaction, player engagement, and optimized navigation experience.",
+      "description": "Complete development of the official Hight forum using Next.js, React, and TypeScript. The system featured direct integration with the Minecraft server, custom authentication, a multi-language system, and a modern interface aimed at community building, player interaction, and an optimized browsing experience.",
       "tags": ["Next.js", "React", "TypeScript", "Website", "Community", "Frontend", "Backend"],
       "images": ["/Hight-Web.png"]
     },
     {
       "title": "Hight - Store",
       "type": "E-COMMERCE",
-      "description": "Development of the official Hight store during the platform's internationalization process. The system was built with a focus on automation, performance, and user experience, featuring direct integration with the server, payments via Stripe and cryptocurrencies, automatic delivery of digital products, and a fully responsive, modern interface.",
+      "description": "Development of the official Hight store during the platform's internationalization process. The system was built with a focus on automation, performance, and user experience, featuring direct integration to the server, payments via Stripe and cryptocurrencies, automatic digital product delivery, and a modern, fully responsive interface.",
       "tags": ["Nytlex.js", "React", "TypeScript", "E-commerce", "Stripe", "Crypto", "Pix"],
       "images": ["/store.png"]
     }
