@@ -27,7 +27,7 @@
     "react-transition-group": "^4.4.5",
     "tailwindcss": "^4.3.0",
     "ts-node": "^10.9.2",
-    "nytlex": "^0.0.2"
+    "nytlex": "^0.0.3-canary.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.16",
