@@ -20,14 +20,14 @@
     "framer-motion": "^12.40.0",
     "i18next": "^26.3.1",
     "lucide-react": "^0.552.0",
+    "nytlex": "^0.0.3",
     "postcss": "^8.5.15",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-i18next": "^17.0.8",
     "react-transition-group": "^4.4.5",
     "tailwindcss": "^4.3.0",
-    "ts-node": "^10.9.2",
-    "nytlex": "^0.0.3-canary.3"
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@types/react": "^19.2.16",
