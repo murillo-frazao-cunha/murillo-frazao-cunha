@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import {ExternalLinkIcon, GithubIcon, ChevronLeft, ChevronRight, Maximize2, X} from "lucide-react";
 import { motion, AnimatePresence } from 'framer-motion';
-import {Image} from "nytlex/react";
+
 
 
 interface Project {
@@ -58,7 +58,7 @@ export const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
                                     onClick={() => setIsModalOpen(true)}
                                 >
                                     {/* Mudado de object-cover para object-contain para não cortar nada */}
-                                    <Image
+                                    <img
                                         src={images[index]}
                                         alt={`${project.title} - ${index + 1}`}
                                         className="w-full h-full object-contain filter  opacity-70 transition-all duration-500 group-hover:opacity-100 group-hover:scale-105 cursor-zoom-in"
@@ -139,7 +139,7 @@ export const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
                         <motion.div className="relative max-w-[95%] max-h-[95%] w-full" onClick={(e) => e.stopPropagation()} initial={{ scale: 0.98, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.98, opacity: 0 }} transition={{ duration: 0.22 }}>
                             <AnimatePresence initial={false} mode="wait">
                                 <motion.div key={images[index]} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 8 }} transition={{ duration: 0.22 }} className="w-full flex items-center justify-center">
-                                    <Image src={images[index]} alt={`${project.title} - ${index + 1}`} className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl" />
+                                    <img src={images[index]} alt={`${project.title} - ${index + 1}`} className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl" />
                                 </motion.div>
                             </AnimatePresence>
 
