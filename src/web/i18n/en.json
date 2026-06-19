@@ -29,7 +29,8 @@
     "quickLinks": {
       "story": "Story",
       "experience": "Experience",
-      "education": "Education"
+      "education": "Education",
+      "certifications": "Certifications"
     },
     "storyTitle": "My Journey",
     "experienceTitle": "Professional Experience",
