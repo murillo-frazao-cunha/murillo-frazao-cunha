@@ -223,8 +223,20 @@ export default function Layout({ children }: LayoutProps) {
                     </main>
 
                     {/* Footer */}
-                    <footer className="mt-24 pt-8 border-t border-neutral-900 text-center md:text-left text-[11px] font-mono text-neutral-600">
-                        &copy; {new Date().getFullYear()} {personalInfo.name}. {t('footer.rights')}
+                    <footer className="mt-24 pt-8 border-t border-neutral-900 flex flex-col md:flex-row items-center justify-between gap-4 text-[11px] font-mono text-neutral-600">
+                        <div className="text-center md:text-left">
+                            &copy; {new Date().getFullYear()} {personalInfo.name}. {t('footer.rights')}
+                        </div>
+
+                        <div className="flex items-center gap-1.5">
+                            <span>Feito com</span>
+                            <img
+                                src="https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg"
+                                alt="Nytlex.js Logo"
+                                className="w-3.5 h-3.5"
+                            />
+                            <span className="text-neutral-400 font-medium tracking-wide">Nytlex.js React</span>
+                        </div>
                     </footer>
                 </div>
 

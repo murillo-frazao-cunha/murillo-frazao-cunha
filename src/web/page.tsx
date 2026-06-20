@@ -122,6 +122,6 @@ export default function AboutPage() {
 
 export function generateMetadata(): Metadata {
     return {
-        title: 'Home | Murillo Frazão'
+        title: 'Home | Murillo Frazão Cunha'
     }
 }
