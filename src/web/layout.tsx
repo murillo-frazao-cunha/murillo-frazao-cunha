@@ -228,7 +228,7 @@ export default function Layout({ children }: LayoutProps) {
                             &copy; {new Date().getFullYear()} {personalInfo.name}. {t('footer.rights')}
                         </div>
 
-                        <div className="flex items-center gap-1.5">
+                        <a href={"https://nytlex.mfraz.ovh"} className="block flex items-center gap-1.5">
                             <span>Feito com</span>
                             <img
                                 src="https://raw.githubusercontent.com/murillo-frazao-cunha/nytlex-docs/master/public/favicon-dark.svg"
@@ -236,7 +236,7 @@ export default function Layout({ children }: LayoutProps) {
                                 className="w-3.5 h-3.5"
                             />
                             <span className="text-neutral-400 font-medium tracking-wide">Nytlex.js React</span>
-                        </div>
+                        </a>
                     </footer>
                 </div>
 
